@@ -1,0 +1,37 @@
+<annotation>
+        <folder>FOLDER</folder>
+        <filename>722394655.jpg</filename>
+        <path>data/scenes/val\722394655.jpg</path>
+        <source>
+                <database>Unknown</database>
+        </source>
+        <size>
+                <width>720</width>
+                <height>720</height>
+                <depth>3</depth>
+        </size>
+ <object>
+                <name>H8</name>
+                <pose>Unspecified</pose>
+                <truncated>0</truncated>
+                <difficult>0</difficult>
+                <bndbox>
+                        <xmin>305</xmin>
+                        <ymin>634</ymin>
+                        <xmax>358</xmax>
+                        <ymax>671</ymax>
+                </bndbox>
+        </object>
+ <object>
+                <name>H8</name>
+                <pose>Unspecified</pose>
+                <truncated>0</truncated>
+                <difficult>0</difficult>
+                <bndbox>
+                        <xmin>468</xmin>
+                        <ymin>324</ymin>
+                        <xmax>510</xmax>
+                        <ymax>356</ymax>
+                </bndbox>
+        </object>
+</annotation>        

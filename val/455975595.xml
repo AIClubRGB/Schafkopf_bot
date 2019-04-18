@@ -1,0 +1,37 @@
+<annotation>
+        <folder>FOLDER</folder>
+        <filename>455975595.jpg</filename>
+        <path>data/scenes/val\455975595.jpg</path>
+        <source>
+                <database>Unknown</database>
+        </source>
+        <size>
+                <width>720</width>
+                <height>720</height>
+                <depth>3</depth>
+        </size>
+ <object>
+                <name>G8</name>
+                <pose>Unspecified</pose>
+                <truncated>0</truncated>
+                <difficult>0</difficult>
+                <bndbox>
+                        <xmin>366</xmin>
+                        <ymin>192</ymin>
+                        <xmax>425</xmax>
+                        <ymax>216</ymax>
+                </bndbox>
+        </object>
+ <object>
+                <name>G8</name>
+                <pose>Unspecified</pose>
+                <truncated>0</truncated>
+                <difficult>0</difficult>
+                <bndbox>
+                        <xmin>86</xmin>
+                        <ymin>385</ymin>
+                        <xmax>142</xmax>
+                        <ymax>413</ymax>
+                </bndbox>
+        </object>
+</annotation>        
