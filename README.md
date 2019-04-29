@@ -1,11 +1,11 @@
 # Project Schafkopf bot
 
 Goals of this project are to develop an A.I. for real-time recognition of the 32 cards of the card game Schafkopf (cf. https://en.wikipedia.org/wiki/Schafkopf).
-Further it which of the 4 players played a card.
+Further it detects which of the 4 players has played a card.
 
-In a second step a recommendation shall be given dependent on the best winning probabilities. 
+In a second step a recommendation shall be given which card should be played, dependent on the highest winning probabilities. 
 
-A Rhasperry Pi via cam module shall record, film and send the images via kafka to a stronger cpu for recognition in real-time. 
+A raspberry pi via cam module shall record, film and send the images via kafka to a stronger cpu for recognition in real-time. 
 
 The project is based on the amazing work from
 
