@@ -21,9 +21,7 @@ The project is being processed.
 
 ##Examples:
 ![alt text](https://github.com/AIClubRGB/Schafkopf_bot/tree/master/for_readme/Eichel8.jpg)
-
-![alt text](for_readme/Schellen8.jpg)
-
+![alt text](https://github.com/AIClubRGB/Schafkopf_bot/tree/master/for_readme/Schellen8.jpg)
 
 ## Authors
 
