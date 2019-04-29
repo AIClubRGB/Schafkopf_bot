@@ -10,15 +10,19 @@ A Rhasperry Pi via cam module shall record, film and send the images via kafka t
 The project is based on the amazing work from
 
 https://github.com/aleju/imgaug
+
 https://github.com/geaxgx/playing-card-detection
+
 https://github.com/AlexeyAB/darknet
+
 https://github.com/ivangrov.
  
 The project is being processed.
 
 ##Examples:
-![alt text](for_readme\Eichel8.jpg)
-![alt text](for_readme\Schellen8.jpg)
+![alt text](https://github.com/AIClubRGB/Schafkopf_bot/tree/master/for_readme/Eichel8.jpg)
+
+![alt text](for_readme/Schellen8.jpg)
 
 
 ## Authors
