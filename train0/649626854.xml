@@ -1,0 +1,37 @@
+<annotation>
+        <folder>FOLDER</folder>
+        <filename>649626854.jpg</filename>
+        <path>data/scenes/train\649626854.jpg</path>
+        <source>
+                <database>Unknown</database>
+        </source>
+        <size>
+                <width>720</width>
+                <height>720</height>
+                <depth>3</depth>
+        </size>
+ <object>
+                <name>GK</name>
+                <pose>Unspecified</pose>
+                <truncated>0</truncated>
+                <difficult>0</difficult>
+                <bndbox>
+                        <xmin>606</xmin>
+                        <ymin>454</ymin>
+                        <xmax>628</xmax>
+                        <ymax>513</ymax>
+                </bndbox>
+        </object>
+ <object>
+                <name>GK</name>
+                <pose>Unspecified</pose>
+                <truncated>0</truncated>
+                <difficult>0</difficult>
+                <bndbox>
+                        <xmin>423</xmin>
+                        <ymin>170</ymin>
+                        <xmax>446</xmax>
+                        <ymax>212</ymax>
+                </bndbox>
+        </object>
+</annotation>        
