@@ -1,0 +1,37 @@
+<annotation>
+        <folder>FOLDER</folder>
+        <filename>328426549.jpg</filename>
+        <path>data/scenes/train\328426549.jpg</path>
+        <source>
+                <database>Unknown</database>
+        </source>
+        <size>
+                <width>720</width>
+                <height>720</height>
+                <depth>3</depth>
+        </size>
+ <object>
+                <name>GU</name>
+                <pose>Unspecified</pose>
+                <truncated>0</truncated>
+                <difficult>0</difficult>
+                <bndbox>
+                        <xmin>334</xmin>
+                        <ymin>94</ymin>
+                        <xmax>369</xmax>
+                        <ymax>135</ymax>
+                </bndbox>
+        </object>
+ <object>
+                <name>GU</name>
+                <pose>Unspecified</pose>
+                <truncated>0</truncated>
+                <difficult>0</difficult>
+                <bndbox>
+                        <xmin>320</xmin>
+                        <ymin>448</ymin>
+                        <xmax>357</xmax>
+                        <ymax>488</ymax>
+                </bndbox>
+        </object>
+</annotation>        
