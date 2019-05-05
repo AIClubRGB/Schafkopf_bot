@@ -1,0 +1,37 @@
+<annotation>
+        <folder>FOLDER</folder>
+        <filename>066495387.jpg</filename>
+        <path>data/scenes/train\066495387.jpg</path>
+        <source>
+                <database>Unknown</database>
+        </source>
+        <size>
+                <width>720</width>
+                <height>720</height>
+                <depth>3</depth>
+        </size>
+ <object>
+                <name>HA</name>
+                <pose>Unspecified</pose>
+                <truncated>0</truncated>
+                <difficult>0</difficult>
+                <bndbox>
+                        <xmin>403</xmin>
+                        <ymin>528</ymin>
+                        <xmax>435</xmax>
+                        <ymax>586</ymax>
+                </bndbox>
+        </object>
+ <object>
+                <name>HA</name>
+                <pose>Unspecified</pose>
+                <truncated>0</truncated>
+                <difficult>0</difficult>
+                <bndbox>
+                        <xmin>338</xmin>
+                        <ymin>189</ymin>
+                        <xmax>370</xmax>
+                        <ymax>246</ymax>
+                </bndbox>
+        </object>
+</annotation>        
