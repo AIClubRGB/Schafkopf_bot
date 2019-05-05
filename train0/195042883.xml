@@ -1,0 +1,37 @@
+<annotation>
+        <folder>FOLDER</folder>
+        <filename>195042883.jpg</filename>
+        <path>data/scenes/train\195042883.jpg</path>
+        <source>
+                <database>Unknown</database>
+        </source>
+        <size>
+                <width>720</width>
+                <height>720</height>
+                <depth>3</depth>
+        </size>
+ <object>
+                <name>SK</name>
+                <pose>Unspecified</pose>
+                <truncated>0</truncated>
+                <difficult>0</difficult>
+                <bndbox>
+                        <xmin>170</xmin>
+                        <ymin>140</ymin>
+                        <xmax>195</xmax>
+                        <ymax>181</ymax>
+                </bndbox>
+        </object>
+ <object>
+                <name>SK</name>
+                <pose>Unspecified</pose>
+                <truncated>0</truncated>
+                <difficult>0</difficult>
+                <bndbox>
+                        <xmin>416</xmin>
+                        <ymin>402</ymin>
+                        <xmax>440</xmax>
+                        <ymax>442</ymax>
+                </bndbox>
+        </object>
+</annotation>        
