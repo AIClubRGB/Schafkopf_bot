@@ -1,0 +1,37 @@
+<annotation>
+        <folder>FOLDER</folder>
+        <filename>224245903.jpg</filename>
+        <path>data/scenes/val\224245903.jpg</path>
+        <source>
+                <database>Unknown</database>
+        </source>
+        <size>
+                <width>720</width>
+                <height>720</height>
+                <depth>3</depth>
+        </size>
+ <object>
+                <name>EK</name>
+                <pose>Unspecified</pose>
+                <truncated>0</truncated>
+                <difficult>0</difficult>
+                <bndbox>
+                        <xmin>487</xmin>
+                        <ymin>405</ymin>
+                        <xmax>521</xmax>
+                        <ymax>464</ymax>
+                </bndbox>
+        </object>
+ <object>
+                <name>EK</name>
+                <pose>Unspecified</pose>
+                <truncated>0</truncated>
+                <difficult>0</difficult>
+                <bndbox>
+                        <xmin>202</xmin>
+                        <ymin>212</ymin>
+                        <xmax>229</xmax>
+                        <ymax>251</ymax>
+                </bndbox>
+        </object>
+</annotation>        

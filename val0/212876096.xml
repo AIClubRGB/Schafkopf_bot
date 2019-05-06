@@ -1,0 +1,37 @@
+<annotation>
+        <folder>FOLDER</folder>
+        <filename>212876096.jpg</filename>
+        <path>data/scenes/val\212876096.jpg</path>
+        <source>
+                <database>Unknown</database>
+        </source>
+        <size>
+                <width>720</width>
+                <height>720</height>
+                <depth>3</depth>
+        </size>
+ <object>
+                <name>GK</name>
+                <pose>Unspecified</pose>
+                <truncated>0</truncated>
+                <difficult>0</difficult>
+                <bndbox>
+                        <xmin>612</xmin>
+                        <ymin>435</ymin>
+                        <xmax>651</xmax>
+                        <ymax>491</ymax>
+                </bndbox>
+        </object>
+ <object>
+                <name>GK</name>
+                <pose>Unspecified</pose>
+                <truncated>0</truncated>
+                <difficult>0</difficult>
+                <bndbox>
+                        <xmin>332</xmin>
+                        <ymin>247</ymin>
+                        <xmax>361</xmax>
+                        <ymax>293</ymax>
+                </bndbox>
+        </object>
+</annotation>        

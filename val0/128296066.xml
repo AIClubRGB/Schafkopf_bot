@@ -1,0 +1,37 @@
+<annotation>
+        <folder>FOLDER</folder>
+        <filename>128296066.jpg</filename>
+        <path>data/scenes/val\128296066.jpg</path>
+        <source>
+                <database>Unknown</database>
+        </source>
+        <size>
+                <width>720</width>
+                <height>720</height>
+                <depth>3</depth>
+        </size>
+ <object>
+                <name>GO</name>
+                <pose>Unspecified</pose>
+                <truncated>0</truncated>
+                <difficult>0</difficult>
+                <bndbox>
+                        <xmin>261</xmin>
+                        <ymin>633</ymin>
+                        <xmax>311</xmax>
+                        <ymax>674</ymax>
+                </bndbox>
+        </object>
+ <object>
+                <name>GO</name>
+                <pose>Unspecified</pose>
+                <truncated>0</truncated>
+                <difficult>0</difficult>
+                <bndbox>
+                        <xmin>415</xmin>
+                        <ymin>325</ymin>
+                        <xmax>470</xmax>
+                        <ymax>368</ymax>
+                </bndbox>
+        </object>
+</annotation>        

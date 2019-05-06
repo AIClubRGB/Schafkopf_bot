@@ -1,0 +1,37 @@
+<annotation>
+        <folder>FOLDER</folder>
+        <filename>195478771.jpg</filename>
+        <path>data/scenes/val\195478771.jpg</path>
+        <source>
+                <database>Unknown</database>
+        </source>
+        <size>
+                <width>720</width>
+                <height>720</height>
+                <depth>3</depth>
+        </size>
+ <object>
+                <name>G9</name>
+                <pose>Unspecified</pose>
+                <truncated>0</truncated>
+                <difficult>0</difficult>
+                <bndbox>
+                        <xmin>389</xmin>
+                        <ymin>241</ymin>
+                        <xmax>450</xmax>
+                        <ymax>268</ymax>
+                </bndbox>
+        </object>
+ <object>
+                <name>G9</name>
+                <pose>Unspecified</pose>
+                <truncated>0</truncated>
+                <difficult>0</difficult>
+                <bndbox>
+                        <xmin>64</xmin>
+                        <ymin>350</ymin>
+                        <xmax>125</xmax>
+                        <ymax>376</ymax>
+                </bndbox>
+        </object>
+</annotation>        
