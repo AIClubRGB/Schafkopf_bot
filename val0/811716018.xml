@@ -1,0 +1,37 @@
+<annotation>
+        <folder>FOLDER</folder>
+        <filename>811716018.jpg</filename>
+        <path>data/scenes/val\811716018.jpg</path>
+        <source>
+                <database>Unknown</database>
+        </source>
+        <size>
+                <width>720</width>
+                <height>720</height>
+                <depth>3</depth>
+        </size>
+ <object>
+                <name>SA</name>
+                <pose>Unspecified</pose>
+                <truncated>0</truncated>
+                <difficult>0</difficult>
+                <bndbox>
+                        <xmin>277</xmin>
+                        <ymin>184</ymin>
+                        <xmax>317</xmax>
+                        <ymax>239</ymax>
+                </bndbox>
+        </object>
+ <object>
+                <name>SA</name>
+                <pose>Unspecified</pose>
+                <truncated>0</truncated>
+                <difficult>0</difficult>
+                <bndbox>
+                        <xmin>558</xmin>
+                        <ymin>379</ymin>
+                        <xmax>592</xmax>
+                        <ymax>435</ymax>
+                </bndbox>
+        </object>
+</annotation>        
