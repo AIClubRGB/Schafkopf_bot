@@ -13,5 +13,5 @@ def txt_producer(string):
                 #tr.write(os.path.join('C:','cygwin64','home','Dell-XPS','darknet','data','obj',file+u'\n'))
                 tr.write('data/obj/'+string+'/'+file+u'\n')
         
-txt_producer('train')
-txt_producer('val')
+txt_producer('train0')
+txt_producer('val0')
