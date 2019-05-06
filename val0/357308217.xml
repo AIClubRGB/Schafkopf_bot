@@ -1,0 +1,37 @@
+<annotation>
+        <folder>FOLDER</folder>
+        <filename>357308217.jpg</filename>
+        <path>data/scenes/val\357308217.jpg</path>
+        <source>
+                <database>Unknown</database>
+        </source>
+        <size>
+                <width>720</width>
+                <height>720</height>
+                <depth>3</depth>
+        </size>
+ <object>
+                <name>GA</name>
+                <pose>Unspecified</pose>
+                <truncated>0</truncated>
+                <difficult>0</difficult>
+                <bndbox>
+                        <xmin>41</xmin>
+                        <ymin>495</ymin>
+                        <xmax>92</xmax>
+                        <ymax>536</ymax>
+                </bndbox>
+        </object>
+ <object>
+                <name>GA</name>
+                <pose>Unspecified</pose>
+                <truncated>0</truncated>
+                <difficult>0</difficult>
+                <bndbox>
+                        <xmin>384</xmin>
+                        <ymin>532</ymin>
+                        <xmax>434</xmax>
+                        <ymax>576</ymax>
+                </bndbox>
+        </object>
+</annotation>        
