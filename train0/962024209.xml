@@ -1,0 +1,37 @@
+<annotation>
+        <folder>FOLDER</folder>
+        <filename>962024209.jpg</filename>
+        <path>data/scenes/train\962024209.jpg</path>
+        <source>
+                <database>Unknown</database>
+        </source>
+        <size>
+                <width>720</width>
+                <height>720</height>
+                <depth>3</depth>
+        </size>
+ <object>
+                <name>GA</name>
+                <pose>Unspecified</pose>
+                <truncated>0</truncated>
+                <difficult>0</difficult>
+                <bndbox>
+                        <xmin>317</xmin>
+                        <ymin>563</ymin>
+                        <xmax>368</xmax>
+                        <ymax>605</ymax>
+                </bndbox>
+        </object>
+ <object>
+                <name>GA</name>
+                <pose>Unspecified</pose>
+                <truncated>0</truncated>
+                <difficult>0</difficult>
+                <bndbox>
+                        <xmin>466</xmin>
+                        <ymin>248</ymin>
+                        <xmax>505</xmax>
+                        <ymax>280</ymax>
+                </bndbox>
+        </object>
+</annotation>        

@@ -1,0 +1,37 @@
+<annotation>
+        <folder>FOLDER</folder>
+        <filename>963597793.jpg</filename>
+        <path>data/scenes/train\963597793.jpg</path>
+        <source>
+                <database>Unknown</database>
+        </source>
+        <size>
+                <width>720</width>
+                <height>720</height>
+                <depth>3</depth>
+        </size>
+ <object>
+                <name>H8</name>
+                <pose>Unspecified</pose>
+                <truncated>0</truncated>
+                <difficult>0</difficult>
+                <bndbox>
+                        <xmin>457</xmin>
+                        <ymin>238</ymin>
+                        <xmax>511</xmax>
+                        <ymax>274</ymax>
+                </bndbox>
+        </object>
+ <object>
+                <name>H8</name>
+                <pose>Unspecified</pose>
+                <truncated>0</truncated>
+                <difficult>0</difficult>
+                <bndbox>
+                        <xmin>113</xmin>
+                        <ymin>260</ymin>
+                        <xmax>156</xmax>
+                        <ymax>290</ymax>
+                </bndbox>
+        </object>
+</annotation>        

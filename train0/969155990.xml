@@ -1,0 +1,37 @@
+<annotation>
+        <folder>FOLDER</folder>
+        <filename>969155990.jpg</filename>
+        <path>data/scenes/train\969155990.jpg</path>
+        <source>
+                <database>Unknown</database>
+        </source>
+        <size>
+                <width>720</width>
+                <height>720</height>
+                <depth>3</depth>
+        </size>
+ <object>
+                <name>G9</name>
+                <pose>Unspecified</pose>
+                <truncated>0</truncated>
+                <difficult>0</difficult>
+                <bndbox>
+                        <xmin>323</xmin>
+                        <ymin>346</ymin>
+                        <xmax>355</xmax>
+                        <ymax>394</ymax>
+                </bndbox>
+        </object>
+ <object>
+                <name>G9</name>
+                <pose>Unspecified</pose>
+                <truncated>0</truncated>
+                <difficult>0</difficult>
+                <bndbox>
+                        <xmin>579</xmin>
+                        <ymin>562</ymin>
+                        <xmax>617</xmax>
+                        <ymax>616</ymax>
+                </bndbox>
+        </object>
+</annotation>        
