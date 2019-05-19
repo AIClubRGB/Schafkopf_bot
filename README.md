@@ -15,7 +15,9 @@ https://github.com/geaxgx/playing-card-detection
 
 https://github.com/AlexeyAB/darknet
 
-https://github.com/ivangrov.
+https://github.com/ivangrov
+
+https://github.com/reigngt09/yolov3workflow/tree/master/2_YoloV3_Execute.
  
 The project is being processed.
 
