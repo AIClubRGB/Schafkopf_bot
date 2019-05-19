@@ -24,6 +24,7 @@ The project is being processed.
 ![alt text](for_readme/Eichel8.jpg)
 ![alt text](for_readme/Schellen8.jpg)
 ![alt text](for_readme/HerzAss_Herz8_EichelOber.jpg)
+![alt text](for_readme/Example_detection_film.gif)
 
 ## Authors
 
