@@ -28,11 +28,13 @@ Image recognition via Yolo:
 ![alt text](for_readme/HerzAss_Herz8_EichelOber.jpg)
 ![alt text](for_readme/Example_detection_film.gif)
 
-Motion detection via Opencv:
+Motion detection via OpenCV:
 
 ![alt text](for_readme/After_perspective_transfo.gif)
 ![alt text](for_readme/Original_motion.gif)
 
+Image detection of low resolution image stream from a raspberry pi via motion:
+![alt text](for_readme/Detection_from_raspberry_via_motion.gif)
 
 
 
