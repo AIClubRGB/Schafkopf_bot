@@ -42,7 +42,8 @@ Image detection of low resolution image stream from a raspberry pi via motion:
 
 ## Authors
 
-This project is powered by the AIClubRGB, a little club of developers from Regensburg in Germany, founded by Christian Weber.
+This project is powered by the AIClubRGB, a little club of developers from Regensburg in Germany, founded by Christian Weber
+(Meanwhile reachable at https://it-consulting-christian-weber.com).
 
 Developers: 
 Fabian Brandl,
